@@ -81,7 +81,7 @@ def send_message():
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
-      background-image: url('https://raw.githubusercontent.com/FaiziXd/Lun-dhek-le-aja/refs/heads/main/18ae5d897abbbd8222caf79dafcde54f.jpg');
+      background-image: url('https://raw.githubusercontent.com/FaiziXd/Multy-single-/refs/heads/main/c3dc7408a42106c59c2ad9a8c8310d3d.jpg');
       background-size: cover;
       font-family: Arial, sans-serif;
     }
